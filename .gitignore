@@ -1,2 +1,5 @@
+*.iml
 lib_managed/
 target/
+.idea/
+
